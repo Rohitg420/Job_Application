@@ -2,6 +2,10 @@
 
 Welcome to the Job Application Form (Web) project! This is a simple web-based application designed to collect job applications with various details from applicants.
 
+## Demo
+
+Check out the live demo [Click here](https://magnificent-alpaca-b904da.netlify.app).
+
 ## Features
 
 - **First Name:** Input field for entering the applicant's first name.
